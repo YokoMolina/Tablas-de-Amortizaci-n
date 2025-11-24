@@ -1,0 +1,12 @@
+name: ProyectoActuarial1
+title: ProyectoActuarial1
+username: faben
+account: faben
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10879168
+bundleId: 8117455
+url: https://faben.shinyapps.io/ProyectoActuarial1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
